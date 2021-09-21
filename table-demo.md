@@ -1,4 +1,4 @@
- ---
+---
 layout: liquid-table
 title: 'amiright?'
 reynolds:
@@ -20,7 +20,6 @@ gosling:
   - cries a lot
   - not ryan reynolds
 ---
-
 
 
 
