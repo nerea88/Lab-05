@@ -62,7 +62,7 @@
           ###
 
           ---
-          layout: nice-text
+          layout: default
           ---
 
           {{ content }}
