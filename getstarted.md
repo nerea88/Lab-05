@@ -14,6 +14,17 @@ Here is a 40-second video ....
 
 <div class="gs-section-01" markdown="1">
 
+<style>
+
+.gs-section-01 h2 { 
+     color: blue }
+
+.gs-section-01 p {
+     font-size: 20px;
+}
+
+</style>
+
 
 ### 1. Fork the Beautiful Jekyll repository 
 
