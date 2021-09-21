@@ -40,7 +40,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 <style>
 
-.gs-section-02 h2 { 
+.gs-section-02 h3 { 
      color: green }
 
 .gs-section-02 p {
@@ -61,7 +61,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 <style>
 
-.gs-section-03 h1 { 
+.gs-section-03 h3 { 
      color: blue }
 
 .gs-section-03 p {
