@@ -1,5 +1,5 @@
- ---
-layout: nice-text
+---
+layout: default
 ---
   
 {{ content }}
@@ -154,7 +154,7 @@ layout: nice-text
           ###
 
           ---
-          layout: nice-text
+          layout: default
           ---
 
           &lbrace;&lbrace; content }}
@@ -181,7 +181,7 @@ layout: nice-text
         ###
 
         ---
-        layout: liquid-table
+        layout: liquid_table
         title: 'amiright?'
         reynolds:
           strengths:
