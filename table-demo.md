@@ -202,6 +202,8 @@ layout: default
           - cries a lot
           - not ryan reynolds
         ---
+        
+        ![](img/ryan-v-ryan.jpg)
 
        ###
        ###  LIQUID TAG TABLE IN LAYOUT
